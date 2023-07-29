@@ -48,7 +48,7 @@
       strings: {
         prefixAgo: null,
         prefixFromNow: null,
-        suffixAgo: "lalu",
+        suffixAgo: "atrás",
         suffixFromNow: "mulai sekarang",
         inPast: 'Baru saja',
         seconds: "Beberapa detik",
